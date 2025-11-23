@@ -2,5 +2,4 @@
 
 Author: Gloria Yi
 
-Solving merge conflict is sooooo hard.
-
+Solving merge conflicts is easy! (again)
